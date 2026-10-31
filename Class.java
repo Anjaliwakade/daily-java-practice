@@ -38,3 +38,20 @@ public class Class {
     }
 
 }
+
+/*
+ * Employee = Class
+ * 
+ * 
+ * 
+ * emp1 = Object reference variable
+ * 
+ * 
+ * 
+ * new Employee() = it creates new object
+ * 
+ * 
+ * 
+ * id, name, salary = Instance variables
+ * 
+ */

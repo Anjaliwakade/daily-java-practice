@@ -17,3 +17,11 @@ public class P19_EvenOddUsingTernary {
     }
 
 }
+
+/*
+ * Pre-increment (++a) increases the value first and then uses the updated
+ * value.
+ * 
+ * Post-increment (a++) uses the current value first and then increases it by
+ * one.
+ */

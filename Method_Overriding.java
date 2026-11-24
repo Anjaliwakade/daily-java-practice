@@ -51,6 +51,20 @@ Java calls the overridden method of the Dog class at runtime,
  This is called Runtime Polymorphism
 
 
+
+ - Reference type: Animal
+- Actual object: Dog
+आता एक महत्त्वाचा interview point:
+
+Animal obj = new Dog();
+
+यामध्ये:
+- कोणते methods call करता येतील हे reference type ठरवतो.
+- Overridden method ची implementation कोणती execute होईल हे actual object ठरवतो.
+यालाच Runtime Polymorphism म्हणतात.
+ //Reference type: Animal
+//Actual object: Dog
+
 /*
 
 
